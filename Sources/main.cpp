@@ -6,7 +6,6 @@
 using namespace Struct_Produtos;
 using namespace Arquivos;
 
-
 int main(void)
 {
     setlocale(LC_ALL,"Portuguese");
@@ -25,11 +24,6 @@ int main(void)
 
     Ler.VisualizarLista(Lista, Linha, Caminho, Menu_ID);
     Gravar.NovaLista(Lista, Linha, Caminho);
-
-    system("cls");
-    std::cout << "Ainda está funcionando?\n\n";
-    system("color 0A");
-    std::cout << "Sim, está funcionando ^-^";
 
     return 0;
 }
