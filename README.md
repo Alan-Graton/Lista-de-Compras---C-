@@ -23,6 +23,7 @@ Programa está sendo criado em C++, com previsão de uma atualização em C# com
   - Café da Manhã
   - Almoço
   - Sobremesas
+- Visualizar Lista de Compras
 - Voltar para Menu Principal
 - Entrar com outros produtos que não estejam na lista
 - Finalizar Lista de Compras
